@@ -1,0 +1,4 @@
+(portfile-ts-mode
+ :fetcher github
+ :repo "judaew/portfile-ts-mode"
+ :files '("*.el", "*.json"))
